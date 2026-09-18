@@ -1,0 +1,11 @@
+target/
+reports/
+logs/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+*.apk
+*.ipa
+*.app
